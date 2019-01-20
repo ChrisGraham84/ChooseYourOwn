@@ -6,7 +6,9 @@ export default {
             "foreimage" : "",
             "id" : "001",
             "name" : "Opening",
-            "dialog" : ["Hello there", "Welcome To This World of food, fantasy, and fun.", "Our adventure begins here. Which path would you like to take?"],
+            "dialog" : ["Hello there",
+                        "Welcome To This World of food, fantasy, and fun.", 
+                        "Our adventure begins here. Which path would you like to take?"],
             "paths" : ["002", "003", "004", "005"] 
         },
         {

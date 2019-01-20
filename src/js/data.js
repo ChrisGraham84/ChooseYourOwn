@@ -1,7 +1,7 @@
 export default {
    scenes : [ 
         {
-            "background" : "branch.jpg",
+            "background" : "", //branch.jpg
             "backimage" : "iscreamlip.png",
             "foreimage" : "",
             "id" : "001",

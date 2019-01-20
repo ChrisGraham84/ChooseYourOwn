@@ -63,3 +63,13 @@ body{
     top: 142px;
     right: 70px;
 }
+
+.past-scene{
+    position: absolute;
+    background: salmon;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 45px;
+    padding: 0px 10px;
+    top: 141px;
+}

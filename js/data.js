@@ -14,7 +14,7 @@ export default {
         {
             "background" : "",
             "backimage" : "",
-            "foreimage" : "",
+            "foreimage" : "cookie_back.png",
             "id" : "002",
             "name" : "Cookie Quest",
             "dialog" : ["You are a Cookie."],
@@ -23,7 +23,7 @@ export default {
         {
             "background" : "",
             "backimage" : "",
-            "foreimage" : "",
+            "foreimage" : "candycorn_back.png",
             "id" : "003",
             "name" : "Candy Corn Crusade",
             "dialog" : ["You are a Candy Kernal."],
@@ -32,7 +32,7 @@ export default {
         {
             "background" : "",
             "backimage" : "",
-            "foreimage" : "",
+            "foreimage" : "cupcake_back.png",
             "id" : "004",
             "name" : "Cupcake Caper",
             "dialog" : ["You are a Cupcake."],
@@ -41,7 +41,7 @@ export default {
         {
             "background" : "",
             "backimage" : "",
-            "foreimage" : "",
+            "foreimage" : "jellybean_back.png",
             "id" : "005",
             "name" : "Jelly Bean Journey",
             "dialog" : ["You are a Jelly Bean."],

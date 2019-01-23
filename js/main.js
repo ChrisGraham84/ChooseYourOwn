@@ -28,12 +28,13 @@ function drawScene(scenes, sceneId){
    }
    if(scene.backimage){
       back_image.src = `${imgpath}/${scene.backimage}`;
+      game.appendChild(back_image);
    }
    if(scene.foreimage){
-      for_image.src = `${imgpath}/${scene.foreimage}`;
+      fore_image.src = `${imgpath}/${scene.foreimage}`;
+      game.appendChild(fore_image);
    }
  
-   game.appendChild(back_image);
 
 
    //set up the dialog box

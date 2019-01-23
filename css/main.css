@@ -64,6 +64,13 @@ body{
     right: 70px;
 }
 
+.fore-image{
+    width: 200px;
+    position: absolute;
+    top: 435px;
+    left: 30px;
+}
+
 .past-scene{
     position: absolute;
     background: salmon;
